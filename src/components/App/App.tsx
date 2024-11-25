@@ -6,7 +6,7 @@ import { SourceSelect } from "../SourceSelect/SourceSelect";
 import { PinchZoomPan } from "../PinchZoomPan/PinchZoomPan";
 import { FamilyNode } from "../FamilyNode/FamilyNode";
 import { NodeDetails } from "../NodeDetails/NodeDetails";
-import { NODE_WIDTH, NODE_HEIGHT, SOURCES, DEFAULT_SOURCE } from "../const1";
+import { NODE_WIDTH, NODE_HEIGHT, SOURCES, DEFAULT_SOURCE } from "../const";
 import { getNodeStyle } from "./utils";
 import Sidebar from "../Sidebar/Sidebar";
 import css from "./App.module.css";
